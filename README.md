@@ -1,5 +1,6 @@
 --Atencion/Attention
-Fork creado para propositos educativos/Fork created for educational purposes
+
+Fork creado para propositos educativos / Fork created for educational purposes
 
 
 pentaho-platform
